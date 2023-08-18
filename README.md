@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
 ![GIT](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-![GITHUB](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 
 (https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
