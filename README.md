@@ -1,5 +1,6 @@
 ## 🙋🏻‍♂️ About me
-🐣 I am a beginner <br>
-✍🏻 I started studying on Jan, 2020
-🧑🏻‍💻 I want to be a front-end developer
-🌳 I have a bachelor's degree in forestry 
+🐣 안녕하세요~! <br>
+✍🏻 개발자 이민진입니다.  <br>
+
+## 🚀 TECHS & TOOLS
+🔥 SKILLS ⬇️
