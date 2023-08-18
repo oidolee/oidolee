@@ -12,7 +12,7 @@
 ![GIT](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 
-![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=flat-square)
+![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
 
