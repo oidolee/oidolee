@@ -54,11 +54,16 @@
             - 회원 로그인 및 회원가입 자사 솔루션 연결
             - 메인페이지 배너 롤링 작업
             - 반응형 웹 작업
+         
+              [![image](https://github.com/oidolee/oidolee/assets/85022962/1a12ae27-2978-4f22-b95d-9550a24ff94d)](https://www.gskorea.or.kr/html/)
+
 
             #### 3. [대한지질학회 페이지 유지보수](https://www.gskorea.or.kr/html/) (2021-10 ~ 2021-10)
             - 논문 자료 파일 다운로드 세팅
             - 사진자료 이미지맵 세팅
             - KOQUSS 국문, 영문 페이지 퍼블리싱
+
+              [![image](https://github.com/oidolee/oidolee/assets/85022962/726627e2-c899-4802-8955-2760d499cb4b)](https://www.gskorea.or.kr/html/)
 
         
             
