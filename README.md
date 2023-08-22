@@ -32,7 +32,7 @@
         - [쇼핑몰 대량구매 신청내역 관리툴 연결]
             
             [![대량구매 사이트](https://github.com/oidolee/oidolee/assets/85022962/5b2ae972-6618-44e8-9dda-e4b387fed164)](https://www.compuzone.co.kr/cscenter/bulk_purchase.htm)
-            ![image](https://github.com/oidolee/oidolee/assets/85022962/f9761d40-09a5-4fa2-ac33-c792b04af325)
+            [![image](https://github.com/oidolee/oidolee/assets/85022962/f9761d40-09a5-4fa2-ac33-c792b04af325)](https://www.compuzone.co.kr/cscenter/bulk_purchase.htm)
 
 
 
@@ -46,7 +46,8 @@
             - 회원 로그인 및 회원가입 자사 솔루션 연결
             - 메인페이지 배너 롤링 작업
             - 반응형 웹 작업
-              ![한국생체재료학회](https://github.com/oidolee/oidolee/assets/85022962/05d36e89-23ec-48a4-a34d-e5d886789cef)
+            - 
+             [![한국생체재료학회](https://github.com/oidolee/oidolee/assets/85022962/05d36e89-23ec-48a4-a34d-e5d886789cef)](https://www.ksbm.or.kr/html/)
 
 
             #### 2. [대한위함학회 페이지 유지보수](https://www.gskorea.or.kr/html/) (22021-10 ~ 2021-11)
