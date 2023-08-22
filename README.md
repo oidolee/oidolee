@@ -28,7 +28,7 @@
   - ### 컴퓨존 (2022.01~현재)
     - #### 주요 작업
          - 1. 쇼핑몰 대량구매 견적 신규 페이지 개발 (2023-07 ~ 2023-08)
-              - 대량구매 신청 프로세스 개발
+               - 대량구매 신청 프로세스 개발
                - [쇼핑몰 대량구매 신청내역 관리툴 연결](https://www.compuzone.co.kr/cscenter/bulk_purchase.htm)
                 
                     [![대량구매 사이트](https://github.com/oidolee/oidolee/assets/85022962/5b2ae972-6618-44e8-9dda-e4b387fed164)](https://www.compuzone.co.kr/cscenter/bulk_purchase.htm)
