@@ -31,7 +31,8 @@
          - 대량구매 신청 프로세스 개발
          - 쇼핑몰 대량구매 신청내역 관리툴 연결
             https://www.compuzone.co.kr/cscenter/bulk_purchase.htm
-            ![image](https://github.com/oidolee/oidolee/assets/85022962/7cd63e00-bf28-468e-ae9b-cd66d7bc36cf)
+            ![image](https://github.com/oidolee/oidolee/assets/85022962/5b2ae972-6618-44e8-9dda-e4b387fed164)
+
 
      2. 지게차 관리 시스템 신규 페이지 개발 (2023-02 ~ 2023-03)
          - 지게차 운행 및 관리 프로세스 개발
