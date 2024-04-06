@@ -36,6 +36,8 @@
 
 
         2. [이벤트 페이지 리뉴얼](https://www.compuzone.co.kr/event_zone/eventzone_main.htm?set=&scg=&sst=3&swd=&htc=732&hmp=0&btc=&bmp=0&svl=&sht=&glt=) (2023-05 ~ 2023-06)
+        - 이벤트 페이지
+           
            [![이벤트 페이지]![image](https://github.com/oidolee/oidolee/assets/85022962/12713acc-e093-45d5-9511-afd6ca979018)]
            
 
