@@ -1,4 +1,4 @@
-![image](https://github.com/oidolee/oidolee/assets/85022962/a53a720d-15df-4646-8ec5-2aa9db59b723)## 🙋🏻‍♂️ About me
+## 🙋🏻‍♂️ About me
 🐣 안녕하세요~! <br>
 ✍🏻 개발자 이민진입니다.  <br>
 
