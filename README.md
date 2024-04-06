@@ -29,15 +29,15 @@
     - ### 주요 작업
         1. [대량구매 견적 신규 페이지 개발](https://www.compuzone.co.kr/cscenter/bulk_purchase.htm) (2023-07 ~ 2023-08)
         - 대량구매 신청 프로세스 개발
-        - [쇼핑몰 대량구매 신청내역 관리툴 연결]
+        - [대량구매 신청내역 관리툴 연결]
             
             [![대량구매 사이트](https://github.com/oidolee/oidolee/assets/85022962/5b2ae972-6618-44e8-9dda-e4b387fed164)](https://www.compuzone.co.kr/cscenter/bulk_purchase.htm)
             [![image](https://github.com/oidolee/oidolee/assets/85022962/f9761d40-09a5-4fa2-ac33-c792b04af325)](https://www.compuzone.co.kr/cscenter/bulk_purchase.htm)
 
 
         2. [이벤트 페이지 리뉴얼](https://www.compuzone.co.kr/event_zone/eventzone_main.htm?set=&scg=&sst=3&swd=&htc=732&hmp=0&btc=&bmp=0&svl=&sht=&glt=) (2023-05 ~ 2023-06)
-        - 이벤트 페이지
-           
+        - 이벤트 페이지 리뉴얼
+        - [고객별 이벤트 페이지 추천 기능 추가]   
            [![이벤트 페이지]![image](https://github.com/oidolee/oidolee/assets/85022962/12713acc-e093-45d5-9511-afd6ca979018)]
            
 
