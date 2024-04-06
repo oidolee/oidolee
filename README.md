@@ -39,7 +39,7 @@
         - 이벤트 페이지 리뉴얼
         - [고객별 이벤트 페이지 추천 기능 추가]
           
-           [![이벤트 페이지]![image](https://github.com/oidolee/oidolee/assets/85022962/12713acc-e093-45d5-9511-afd6ca979018)]
+           [![이벤트 페이지](https://github.com/oidolee/oidolee/assets/85022962/12713acc-e093-45d5-9511-afd6ca979018)]
            
 
         4. 지게차 관리 시스템 신규 페이지 개발 (2023-02 ~ 2023-03)
