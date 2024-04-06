@@ -39,7 +39,8 @@
         - 이벤트 페이지 리뉴얼
         - [고객별 이벤트 페이지 추천 기능 추가]
           
-          ![image](https://github.com/oidolee/oidolee/assets/85022962/73e8caab-0553-4b9f-b03e-d2d4fb67882d)
+          [![이벤트 페이지](https://github.com/oidolee/oidolee/raw/main/assets/85022962/73e8caab-0553-4b9f-b03e-d2d4fb67882d.png)](https://www.compuzone.co.kr/event_zone/eventzone_main.htm?set=&scg=&sst=3&swd=&htc=732&hmp=0&btc=&bmp=0&svl=&sht=&glt=)
+
 
            
 
