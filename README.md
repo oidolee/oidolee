@@ -1,4 +1,4 @@
-## 🙋🏻‍♂️ About me
+![image](https://github.com/oidolee/oidolee/assets/85022962/a53a720d-15df-4646-8ec5-2aa9db59b723)## 🙋🏻‍♂️ About me
 🐣 안녕하세요~! <br>
 ✍🏻 개발자 이민진입니다.  <br>
 
@@ -40,6 +40,9 @@
             - [고객별 이벤트 페이지 추천 기능 추가]
           
                [![image](https://github.com/oidolee/oidolee/assets/85022962/b3b15773-96fe-4b9d-aa95-ef934e7d2931)](https://www.compuzone.co.kr/event_zone/eventzone_main.htm?set=&scg=&sst=3&swd=&htc=732&hmp=0&btc=&bmp=0&svl=&sht=&glt=)
+               ![image](https://github.com/oidolee/oidolee/assets/85022962/f76c275b-b7a9-4fda-8a36-5832f272ae6d)
+
+              
 
 
 
