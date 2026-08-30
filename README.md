@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=220&section=header&text=Hi%20I'm%20Minjin%20Lee&fontSize=40&fontColor=ffffff&animation=fadeIn&textAlignY=32&desc=Frontend%20Developer&descAlignY=52&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=250&section=header&text=Hi%20I'm%20Minjin%20Lee&fontSize=38&fontColor=ffffff&animation=fadeIn&textAlignY=25&desc=Frontend%20Developer&descAlignY=70&descSize=16)
 
 <p align="center">
   <a href="mailto:manajini@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 ## 🙋🏻‍♂️ About me
 🐣 안녕하세요~! <br>
 ✍🏻 문제를 해결하며 성장하는 프론트엔드 개발자 이민진입니다. <br>
-🌱 퍼블리셔로 시작해 PHP 백엔드 개발을 거쳐, 현재는 풀스택 개발자로 성장하고 있습니다.
+🌱 퍼블리셔로 시작해 PHP 백엔드 개발을 거쳐, 현재는 React·Next.js·TypeScript 기반 프론트엔드 개발자로 성장하고 있습니다.
 
 ## 🚀 My Favorites
 🔥 SKILLS ⬇️
