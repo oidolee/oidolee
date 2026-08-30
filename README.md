@@ -30,15 +30,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=oidolee&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=oidolee&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%" />
-</p>
-
-<br>
-
 ## 📌 경력 요약
 
 | 기간 | 회사 | 직무 | 역할 |
