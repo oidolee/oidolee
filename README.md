@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=200&section=header&text=Hi%20I'm%20Minjin%20Lee&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=220&section=header&text=Hi%20I'm%20Minjin%20Lee&fontSize=40&fontColor=ffffff&animation=fadeIn&textAlignY=32&desc=Frontend%20Developer&descAlignY=52&descSize=18)
 
 <p align="center">
   <a href="mailto:manajini@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
